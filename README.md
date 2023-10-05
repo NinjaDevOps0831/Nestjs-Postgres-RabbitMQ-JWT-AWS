@@ -44,8 +44,3 @@ $ pnpm start
 # development
 $ pnpm start:dev
 ```
-
-## 👨🏽‍💻 Author
-
-[twitter/x](https://twitter.com/carllos_4)
-[linkedIn](https://www.linkedin.com/in/augusto-carlos96)
